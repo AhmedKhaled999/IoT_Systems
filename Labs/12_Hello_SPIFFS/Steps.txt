@@ -1,0 +1,4 @@
+1-Select the custom partition table from kConfig
+2-Change the flash size to be 4MB
+3-Add you directory to the project
+4-add the CMakeList command
